@@ -35,6 +35,7 @@ supports:
 - IfVisible.js
 - InfoVis
 - Ink
+- Isotope
 - jQuery
 - jQuery Tools
 - jQuery UI
